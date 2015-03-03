@@ -1,0 +1,16 @@
+{
+  "CHANGELOG.md": "a34079087f9a56aa2d6958a535d0fbd4",
+  "Gemfile": "409600e98acd6f93918045f1fd2f4934",
+  "README.md": "da83498df78e93ea45806a7bd65509cb",
+  "Rakefile": "cfe923b1b00742660810917e09483b79",
+  "manifests/init.pp": "fa120499bc19fe9112834df5acd4df4b",
+  "manifests/install.pp": "f22e4b57413919eba976815f5d74ee11",
+  "manifests/params.pp": "c2603cbd0bcd19005693a702b4220550",
+  "metadata.json": "d1cf613e4fd063f01ee418f0d34fec7d",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "33e15d1250229a0b2b5aabd121ed73d4",
+  "templates/mgmt-users.properties.erb": "9ddae5e52c7d7d933a18fa5c435c8995",
+  "templates/wildfly-init-debian.sh.erb": "fc14c20a9802c50ded67867d60628492",
+  "templates/wildfly-init-redhat.sh.erb": "54a8dcd2638d2c25a89a5e58a0ff063b",
+  "templates/wildfly.conf.erb": "126afee131deeff33b1867e251a67216"
+}
